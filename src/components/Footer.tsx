@@ -75,6 +75,9 @@ export default function Footer() {
               <li>
                 <Link href="/community-guidelines" className="text-gray-400 hover:text-white transition-colors">Community Guidelines</Link>
               </li>
+              <li>
+                <Link href="/child-safety-standards" className="text-gray-400 hover:text-white transition-colors">Child Safety Standards</Link>
+              </li>
             </ul>
           </div>
 
@@ -127,7 +130,7 @@ export default function Footer() {
 
         {/* Bottom Bar Copyright */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-gray-500">
-          <p>© {new Date().getFullYear()} PigoLive Inc. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Pigo Live by DevOnDuty. All rights reserved.</p>
           <p className="flex items-center gap-1">
             Made with <Heart className="w-3.5 h-3.5 text-[#D4AF37] fill-[#D4AF37]" /> for broadcasers worldwide.
           </p>

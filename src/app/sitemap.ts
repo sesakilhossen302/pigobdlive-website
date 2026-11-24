@@ -10,6 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/terms-and-conditions",
     "/cookie-policy",
     "/community-guidelines",
+    "/child-safety-standards",
     "/contact",
   ];
 

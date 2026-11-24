@@ -228,6 +228,15 @@ export default function PrivacyPolicyPage() {
                 livepigo7@gmail.com
               </a>.
             </p>
+            <div className="bg-red-500/10 border border-red-500/20 rounded-2xl p-5 space-y-2">
+              <p className="text-white font-semibold">Child Sexual Abuse and Exploitation (CSAE) is strictly prohibited</p>
+              <p>
+                <strong className="text-white">Pigo Live</strong> (developer: <strong className="text-white">DevOnDuty</strong>) has zero tolerance for Child Sexual Abuse and Exploitation (CSAE) and Child Sexual Abuse Material (CSAM). We remove such content, permanently ban the accounts involved, and report them to NCMEC and the relevant law enforcement authorities. Read our full{" "}
+                <a href="/child-safety-standards" className="text-pink-400 underline">
+                  Child Safety Standards
+                </a>.
+              </p>
+            </div>
           </section>
 
           {/* Section 8 */}
